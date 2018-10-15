@@ -1,0 +1,44 @@
+C:\Users\Rza\Desktop\luttop_co\luttop_co\bin\Debug\luttop_co.exe
+C:\Users\Rza\Desktop\luttop_co\luttop_co\bin\Debug\luttop_co.pdb
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form1.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form2.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Properties.Resources.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.exe
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.pdb
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form3.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form4.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form5.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.start.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form6.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form7.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form8.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form9.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form10.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form11.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form12.resources
+C:\Users\Rza\Desktop\luttop_co\luttop_co\bin\Debug\luttop_co.exe.config
+C:\Users\Rza\Desktop\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form13.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\bin\Debug\luttop_co.exe.config
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.exe
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.pdb
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.csprojResolveAssemblyReference.cache
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form1.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form10.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form11.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form12.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form2.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form3.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form4.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form5.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form6.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form7.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form8.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Form9.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.Properties.Resources.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.start.resources
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\obj\x86\Debug\luttop_co.csproj.GenerateResource.Cache
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\bin\Debug\luttop_co.exe
+C:\Users\Levent\Documents\Visual Studio 2010\Projects\luttop_co\luttop_co\bin\Debug\luttop_co.pdb
